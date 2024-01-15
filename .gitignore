@@ -1,0 +1,14 @@
+*.DS_Store
+*.idea/
+*.ipynb_checkpoints/
+/Others/*
+#/Script_File/*
+#/baselines/TS_TCC/data/*
+#/baselines/TS_TCC/data_preprocessing/*
+#/baselines_Cross/TS_TCC/data/*
+#/baselines_Cross/TS_TCC/data_preprocessing/*
+#/baselines_EEG_Emo/TS_TCC/data/*
+#/baselines_EEG_Emo/TS_TCC/data_preprocessing/*
+/baselines/*
+/baselines_Cross/*
+/baselines_EEG_Emo/*
