@@ -1,4 +1,13 @@
 # *MBrain*: A Multi-channel Self-Supervised Learning Framework for Brain Signals
+<div align="center">
+
+### [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Paper</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Slides</a>] [<a href="https://dl.acm.org/doi/10.1145/3580305.3599426" target="_blank">Video</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Poster</a>]
+
+_**[Donghong Cai](https://ilikevegetable.github.io/), [Junru Chen](https://mrnobodycali.github.io/), [Yang Yang<sup>†</sup>](http://yangy.org/), Teng Liu, Yafeng Li**_
+
+Zhejiang University, Nuozhu Technology Co., Ltd.
+
+</div>
 
 MBrain is a general multi-channel self-supervised learning framework to unify the representations learning of EEG and SEEG brain signal data.
 
