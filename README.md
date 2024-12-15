@@ -1,4 +1,4 @@
-# *MBrain*: A Multi-channel Self-Supervised Learning Framework for Brain Signals
+# *MBrain*: A Multi-channel Self-Supervised Learning Framework for Brain Signals (KDD'23)
 <div align="center">
 
 ### [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Paper</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Slides</a>] [<a href="https://dl.acm.org/doi/10.1145/3580305.3599426" target="_blank">Video</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Poster</a>]
