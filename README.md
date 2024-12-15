@@ -13,7 +13,7 @@ MBrain is a general multi-channel self-supervised learning framework to unify th
 
 ![MBrain](./figs/model.png)
 
-**Due to the requirements of our cooperated hospital and company, we are currently unable to public our private SEEG data and all the corresponding data pipeline (including dataloader).**
+**Due to the requirements of our cooperated hospital and company, we are still unable to public our private SEEG data and all the corresponding data pipeline (including dataloader) now.**
 
 ## Data
 We use the Temple University Hospital EEG Seizure Corpus (TUSZ) v1.5.2 as our EEG dataset to do seizure detection experiments, which is publicly available [here](https://isip.piconepress.com/projects/tuh_eeg/). We used the code from [eeg-gnn-ssl](https://github.com/tsy935/eeg-gnn-ssl) to read the EEG data and sampled from the complete dataset to generate the self-supervised training set and downstream task datasets. Running the following code to clone the code from eeg-gnn-ssl:
