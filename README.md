@@ -1,7 +1,7 @@
 # *MBrain*: A Multi-channel Self-Supervised Learning Framework for Brain Signals (KDD'23)
 <div align="center">
 
-### [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Paper</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Slides</a>] [<a href="https://dl.acm.org/doi/10.1145/3580305.3599426" target="_blank">Video</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Poster</a>]
+### [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599426" target="_blank">Paper</a>] [<a href="figs/MBrain_KDD23_Slides.pdf" target="_blank">Slides</a>] [<a href="https://dl.acm.org/doi/suppl/10.1145/3580305.3599426/suppl_file/rtfp1348-2min-promo.mp4" target="_blank">Video</a>] [<a href="figs/MBrain_KDD23_Poster.pdf" target="_blank">Poster</a>]
 
 _**[Donghong Cai<sup>*</sup>](https://ilikevegetable.github.io/), [Junru Chen<sup>*</sup>](https://mrnobodycali.github.io/), [Yang Yang<sup>†</sup>](http://yangy.org/), Teng Liu, Yafeng Li**_
 
@@ -13,7 +13,7 @@ MBrain is a general multi-channel self-supervised learning framework to unify th
 
 ![MBrain](./figs/model.png)
 
-**Due to the requirements of our cooperated hospital and company, we are still unable to public our private SEEG data and all the corresponding data pipeline (including dataloader) now.**
+**Due to the requirements of our cooperated hospital and company, we are unable to public our private SEEG data and all the corresponding data pipeline (including dataloader) now.**
 
 ## Data
 We use the Temple University Hospital EEG Seizure Corpus (TUSZ) v1.5.2 as our EEG dataset to do seizure detection experiments, which is publicly available [here](https://isip.piconepress.com/projects/tuh_eeg/). We used the code from [eeg-gnn-ssl](https://github.com/tsy935/eeg-gnn-ssl) to read the EEG data and sampled from the complete dataset to generate the self-supervised training set and downstream task datasets. Running the following code to clone the code from eeg-gnn-ssl:
